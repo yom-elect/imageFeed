@@ -105,10 +105,10 @@ const AddImageFeed = ({navigation}) => {
          <Text style={styles.text}>Take a picture</Text>
          <View style={styles.buttons}>
            <View style={styles.button}>
-             <Button title="Select Picture" onPress={openCamera} />
+             <Button title="Select Picture" onPress={openGallery} />
            </View>
            <View style={styles.button}>
-             <Button title="Take picture" onPress={openGallery} />
+             <Button title="Take picture" onPress={openCamera} />
            </View>
          </View>
        </ScrollView>
