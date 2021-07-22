@@ -41,7 +41,7 @@ buck-out/
 *.keystore
 !debug.keystore
 
-*.json
+
 
 # fastlane
 #

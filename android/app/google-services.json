@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021362559615",
+    "firebase_url": "https://social-app-ac019.firebaseio.com",
+    "project_id": "social-app-ac019",
+    "storage_bucket": "social-app-ac019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021362559615:android:f58bdadbc3452f2d083d4a",
+        "android_client_info": {
+          "package_name": "com.imagefeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021362559615-7m97fl9aa6emip8m6hmrcait15v34rn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6MWmjPqGTbxVg8LGh5_G7eAGquJWDDw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021362559615-7m97fl9aa6emip8m6hmrcait15v34rn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
